@@ -1,48 +1,63 @@
 # Rubric for Software Proposal
+## Scenario
+You are the project lead of a software development team for a project at MJ Logistics Gaming Company. The team includes business analysts, solution analysts, developers, quality assurance professionals, and a project manager, among other team members. You have been tasked with presenting a solution proposal and design and test plan with the help of your team to support the software development process. MJ Logistics Gaming also wants your team to implement a web-based customer relationship management (CRM) system for the sales force of a medium-sized company. MJ Logistics Gaming has provided a high-level requirements document to aid you in identifying an appropriate solution and gaining an overall understanding of the system the company is looking for. (See the attached “CRM Requirements.”)
 
-A.  Using the “Quality Assurance Test Plan” supporting document, provide an overview by doing the following:
+## Requirements
 
-  1.  Summarize the proposed software design plan from Task 1, including identification of the problem statement being addressed from the attached “Background Information” (i.e., scenario, ticket).
+A.  Introduce your proposed system, as outlined in the attached “Design Template.” Your introduction must address the following requirements:
 
-2.  Identify the overall objective of the functional requirements to be tested during the quality assurance process, aligning the objective with the summarized software design plan in part A1.
+1.  Provide an introduction, including an explanation of the purpose of the proposed system.
 
-a.  Summarize the quality metrics associated with the overall objective of the functional requirements, including an explanation of why the identified metrics are relevant to the software design solution.
+2.  Describe the problems the company is currently facing and how the proposed solution will solve those problems.
 
-3.  Identify the overall objective of the non-functional requirements to be tested during the quality assurance process, aligning the objective with the summarized software design plan in part A1.
+3.  Provide the goals and objectives for the project and solution.
 
-a.  Summarize the quality metrics associated with the overall objective of the non-functional requirements, including an explanation of why the identified metrics are relevant to the software design solution.
+4.  Provide a list of prerequisites that include descriptions and future completion dates.
 
+5.  List the scope of the proposed system, including what will and will not be covered.
 
-B.  Using the “Quality Assurance Test Plan” supporting document, identify the project scope by doing the following:
+6.  Describe the front-end and back-end environments that the solution will be deployed in.
 
-1.  Identify two in-scope requirements to be tested within the quality assurance process that are aligned with the overall objective of the functional requirements identified in part A2.
+ 
 
-2.  Identify two in-scope requirements to be tested within the quality assurance process that are aligned with the overall objective of the non-functional requirements identified in part A3.
+Note: The introduction section of your report may be done after the project task is completed.
 
-3.  Identify two out-of-scope functionalities that will not be tested within the quality assurance process.
+ 
 
-a.  For each identified functionality, explain the following points:
+B.  Explain how your software solution addresses four distinct requirements from the attached “CRM Requirements.” Align each of the four distinct requirements to one of the following subsections:
 
-•   how the functionality aligns with the business requirement identified in part A1
+•   business requirements
 
-•   why the functionality should be labeled as out of scope
+•   user requirements
 
+•   functional requirements
 
-C.  Using the “Quality Assurance Test Plan” supporting document, outline the testing strategy by doing the following:
+•   non-functional requirements
 
-1.  Provide an overview of the testing process for each in-scope requirement identified in parts B1 and B2 by filling out the “Test Case Table” with the following information:
+ 
 
-•   Test Type: categorize by test type (e.g., unit, integration, system, end-to-end)
+C.  Discuss the Agile method by doing the following:
 
-•   Description of Test: summarize the testing technique(s) used to validate the in-scope requirement, including sample inputs and expected results
+1.  Compare at least three advantages and at least three disadvantages of the Agile method to those of another development method of your choice.
 
-•   Objective: restate the associated overall objective, identified in part A2 or A3, met by the in-scope requirement
+2.  Evaluate whether the Agile method or the development method you chose in part C1 is better suited to the solution for MJ Logistics Gaming Company, including specific examples to justify your evaluation.
 
-•   Test Owner: identify which stakeholder role will perform the test
+ 
 
-•   Environment: identify the testing environment or tools required for the test
+D.  Create two different representations of your software solution (e.g., storyboard, flowchart, UML diagram, ERD) that illustrate how the system process or workflow aligns with and supports the business process for MJ Logistics Gaming Company. Include a brief description for each representation.
 
-2.  Define a logical sequence of testing for the testing process for each in-scope requirement provided in part C1, including the justification of the planned sequence of testing.
+ 
 
+E.  Create a test plan with test cases for three different functional aspects of your software solution, including each of the following:
 
-D.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+•   requirement to be tested
+
+•   preconditions for each test case
+
+•   steps for each test case
+
+•   expected results for each test case
+
+•   an explanation of why each test passed or failed
+
+ 
